@@ -10,7 +10,6 @@ Share this project with your seniors and passed out students of JECRC University
 | 16BCON104 | 16BCON104     |
 | 16BCON106 | 16BCON106     |
 | 16BCON108 | 16BCON108     |
-| 17BCAN015 | hitarth.1     |
 | 18BCON638 | 18BCON638     |
 
 
